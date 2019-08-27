@@ -1,5 +1,5 @@
 # EVE_IntelMap
-Personnal project for the game EVE Online (best game ever)
+Personnal project for the game EVE Online, designed to easely track players position across solar systems. Based on player's intel, it alerts (visual + oral) the user when other players are detecting ennemis.
 
 ![Image of app](https://i.imgur.com/l9z5LNe.png)
 
