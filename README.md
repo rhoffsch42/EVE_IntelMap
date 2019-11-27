@@ -1,5 +1,7 @@
 # EVE_IntelMap
-Personnal project for the game EVE Online, designed to easely track players position across solar systems. Based on player's intel, it alerts (visual + oral) the user when other players are detecting ennemis.
+Personnal project for the game EVE Online, designed to easely track players position across solar systems. Based on player's intel, it alerts (visual + sound) the user when other players are detecting ennemis.
+
+Made with Qt 5.1.0 http://download.qt.io/archive/qt/5.1/5.1.0/
 
 ![Image of app](https://i.imgur.com/l9z5LNe.png)
 
